@@ -1,5 +1,5 @@
 ## Assignment 2 — Backend API Integration & Service Development
-## Student: Sadykov Danial 
+## Student: Kadyrbek Asqartau 
 
 ## 1. Objective
 
@@ -92,4 +92,5 @@ Response:
 ## Conclusion
 Successfully integrated two server-side APIs.
 Backend architecture separates routes and services.
+
 
